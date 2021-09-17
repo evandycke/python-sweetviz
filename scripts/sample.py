@@ -3,7 +3,7 @@ import sweetviz as sv
 
 def main():
     # On charge les données
-    df = pd.read_csv('../data/MOCK_DATA.csv')
+    df = pd.read_csv('../in/MOCK_DATA.csv')
 
     # On analyse les données
     r = sv.analyze(df)
