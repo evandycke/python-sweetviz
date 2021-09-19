@@ -16,7 +16,7 @@ pip install sweetviz
 ```
 
 2. Clone this project
-3. Execute sample.py
+3. Execute SweetvizAnalyze.py
 
 ### Screenshots
 
